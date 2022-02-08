@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/curso-practico-react/static/css/main.1de2f91b.css",
-    "main.js": "/curso-practico-react/static/js/main.31f233d7.js",
+    "main.js": "/curso-practico-react/static/js/main.d5ef3336.js",
     "static/media/logo_yard_sale.svg": "/curso-practico-react/static/media/logo_yard_sale.f5c1d07e0dba172463639e02bacccd32.svg",
     "static/media/bt_add_to_cart.svg": "/curso-practico-react/static/media/bt_add_to_cart.c13587f7a917cacfc4722859eba06bca.svg",
     "static/media/icon_shopping_cart.svg": "/curso-practico-react/static/media/icon_shopping_cart.6ee019074975f25fb7927a83133327c4.svg",
@@ -9,10 +9,10 @@
     "index.html": "/curso-practico-react/index.html",
     "static/media/flechita.svg": "/curso-practico-react/static/media/flechita.e419d8c93e852173b9b8261835467277.svg",
     "main.1de2f91b.css.map": "/curso-practico-react/static/css/main.1de2f91b.css.map",
-    "main.31f233d7.js.map": "/curso-practico-react/static/js/main.31f233d7.js.map"
+    "main.d5ef3336.js.map": "/curso-practico-react/static/js/main.d5ef3336.js.map"
   },
   "entrypoints": [
     "static/css/main.1de2f91b.css",
-    "static/js/main.31f233d7.js"
+    "static/js/main.d5ef3336.js"
   ]
 }
