@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from 'react-router-dom'
+import { HashRouter, Routes, Route } from 'react-router-dom'
 
 import Layout from '../containers/Layout';
 
@@ -24,7 +24,7 @@ function App() {
 
   return (
     <AppContext.Provider value={ initialState }>
-      <BrowserRouter>
+      <HashRouter>
         <Layout>
           <Routes>
             <Route index path='/' element={ <Home /> } />
@@ -39,7 +39,7 @@ function App() {
             <Route path='*' element={ <NotFound /> } />
           </Routes>
         </Layout>
-      </BrowserRouter>
+      </HashRouter>
     </AppContext.Provider>
   );
 }
